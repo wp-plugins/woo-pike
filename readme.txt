@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Tor/I2P/Proxy orders sometimes are connected with fraudulent transactions. We will try to deliver you accurate 
-information regarding this networks via our service pike.hqpeak.com .
+information regarding this networks.
  
 == Description ==
 

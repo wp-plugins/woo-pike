@@ -1,7 +1,7 @@
 === Woo Pike ===
 Contributors: hqpeak
 Donate link: http://hqpeak.com/
-Tags: woocommerce, security, anti-fraud,
+Tags: woocommerce, security, anti-fraud, tor
 Requires at least: 3.8.1
 Tested up to: 4.3
 Stable tag: 1.0
